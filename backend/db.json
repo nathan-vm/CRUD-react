@@ -1,11 +1,3 @@
 {
-    "users":[{
-        "id":1,
-        "name":"Jhenifer Borges Vieira",
-        "email":"jhenifer.borges0712@gmail.com"
-    },{
-        "id":2,
-        "name":"Nathan Vieira Marcelino",
-        "email":"nathan.v.marcelino@gmail.com"
-    }]
+  "users": []
 }
