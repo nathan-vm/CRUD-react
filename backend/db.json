@@ -1,3 +1,14 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "eu sou legal",
+      "email": "nathan.v.marcelino@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "jheni jheni",
+      "email": "jheni_linda@gmail.com",
+      "id": 2
+    }
+  ]
 }
