@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "JSON server",
+  "main": "index.js",
+  "scripts": {
+    "start":"json-server --watch db.json --port 3001"
+  },
+  "author": "Nathan Vieira Marcelino",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.13.0"
+  }
+}
